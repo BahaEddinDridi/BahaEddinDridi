@@ -1,3 +1,1 @@
-# BahaEddineDridi
-About Me
-Hi!
+Hi 👋, I'm Baha Eddine Dridi

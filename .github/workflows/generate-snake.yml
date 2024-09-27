@@ -7,9 +7,6 @@ on:
 
 permissions:
   contents: write  # Allow writing to the repository contents
-  # Optionally, you can add more permissions if needed
-  # issues: read  # Example to allow read access to issues
-  # pull-requests: write  # Example to allow writing pull requests
 
 jobs:
   build:
@@ -27,8 +24,8 @@ jobs:
       uses: Platane/snk@v3.0.0
       with:
         github_user_name: 'BahaEddinDridi'  # Your GitHub username
-        github_token: ${{ secrets.GITHUB_TOKEN }}  # Ensure you have the right permissions
-        output: dist/snake.svg
+        entryPoint: 'path/to/your/script.js'  # Replace with the correct entry point if needed
+        outputs: 'dist/snake.svg'  # Specify the output path for the SVG
 
     - name: Push generated snake.svg to main branch
       run: |

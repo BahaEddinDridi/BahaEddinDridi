@@ -57,6 +57,17 @@ Welcome to my GitHub profile!
 
 ![Visitor Count](https://count.getloli.com/get/@BahaEddinDridi?theme=rule34)
 
+
+![Isometric GitHub Activity Graph](https://github.com/BahaEddinDridi/BahaEddinDridi/blob/output/github-contribution-grid-snake.svg)
+
+
+![GitHub Contribution Snake](https://github.com/BahaEddinDridi/BahaEddinDridi/blob/output/github-contribution-grid-snake.svg)
+
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/BahaEddinDridi)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF5733&lines=Web+Dev+Engineer+%F0%9F%92%BB;MERN+Stack+Enthusiast+%F0%9F%8E%AF;Always+Learning+New+Things+%F0%9F%A4%93)
+
 ---
 
 ## ✨ Let's Connect

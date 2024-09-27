@@ -20,27 +20,21 @@ I'm a final-year engineering student specializing in web development with a focu
 
 ## 📊 GitHub Stats
 
-![Baha's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![Baha's GitHub stats](https://github-readme-stats.vercel.app/api?username=BahaEddinDridi&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BahaEddinDridi&layout=compact&theme=radical)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=dracula)
-
----
-
-## ⏳ Weekly Coding Time (Wakatime)
-
-![Baha's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=YourWakatimeUsername&theme=radical)
+![Trophies](https://github-profile-trophy.vercel.app/?username=BahaEddinDridi&theme=dracula)
 
 ---
 
 ## 👀 Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername)
+![Profile Views](https://komarev.com/ghpvc/?username=BahaEddinDridi)
 
 ---
 

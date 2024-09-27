@@ -18,6 +18,7 @@ I'm a final-year engineering student specializing in web development with a focu
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/baha-eddine-dridi-88b039203).
 
 Thanks for visiting my profile!
+![Baha's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
 
 ---
 

@@ -61,7 +61,7 @@ I'm a passionate **Web Development Engineer** with a knack for crafting full-sta
 
 <div style="display: flex; justify-content: space-between;">
     <img src="https://github-readme-stats.vercel.app/api?username=BahaEddinDridi&show_icons=true&theme=radical" alt="Baha's GitHub stats" style="width: 48%;"/>
-    <img src="https://github.com/BahaEddinDridi/BahaEddinDridi/blob/main/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" style="width: 48%;"/>
+    <img src="https://github.com/BahaEddinDridi/BahaEddinDridi/blob/main/dist/snake.svg" alt="GitHub Contribution Snake" style="width: 48%;"/>
 </div>
 
 ---

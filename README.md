@@ -1,5 +1,11 @@
 # Hi there! 👋
 
+---
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF5733&lines=Web+Dev+Engineer+%F0%9F%92%BB;MERN+Stack+Enthusiast+%F0%9F%8E%AF;Always+Learning+New+Things+%F0%9F%A4%93)
+
+---
+
 **Welcome to my GitHub profile!**  
 I'm a passionate **Web Development Engineer** with a knack for crafting full-stack applications using the **MERN stack**. Whether it’s building sleek user interfaces or architecting powerful backends, I’m always up for a new coding challenge! 🚀
 
@@ -78,12 +84,6 @@ I'm a passionate **Web Development Engineer** with a knack for crafting full-sta
 ## 🚀 GitHub Contribution Snake
 
 ![GitHub Contribution Snake](https://github.com/BahaEddinDridi/BahaEddinDridi/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## ✨ Typing Animation
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF5733&lines=Web+Dev+Engineer+%F0%9F%92%BB;MERN+Stack+Enthusiast+%F0%9F%8E%AF;Always+Learning+New+Things+%F0%9F%A4%93)
 
 ---
 

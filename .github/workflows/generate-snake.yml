@@ -24,7 +24,6 @@ jobs:
       uses: Platane/snk@v3.0.0
       with:
         github_user_name: 'BahaEddinDridi'  # Your GitHub username
-        entryPoint: 'path/to/your/script.js'  # Replace with the correct entry point if needed
         outputs: 'dist/snake.svg'  # Specify the output path for the SVG
 
     - name: Push generated snake.svg to main branch

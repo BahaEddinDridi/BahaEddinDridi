@@ -53,6 +53,12 @@ Welcome to my GitHub profile!
 
 ---
 
+## 👀 Visitors Count
+
+![Visitor Count](https://count.getloli.com/get/@BahaEddinDridi?theme=rule34)
+
+---
+
 ## ✨ Let's Connect
 
 Feel free to connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Baha%20Dridi-blue)](https://www.linkedin.com/in/baha-eddine-dridi-88b039203).

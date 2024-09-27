@@ -6,7 +6,7 @@ Welcome to my GitHub profile!
 
 ## About Me
 
-I'm a final-year engineering student specializing in web development with a focus on the **MERN stack**.
+"I'm a passionate Web Development Engineer with a knack for crafting full-stack applications using the MERN stack. Whether it’s building sleek user interfaces or architecting powerful backends, I’m always up for a new coding challenge!"
 
 ---
 
@@ -38,8 +38,6 @@ I'm a final-year engineering student specializing in web development with a focu
 ## 📊 GitHub Stats
 
 ![Baha's GitHub stats](https://github-readme-stats.vercel.app/api?username=BahaEddinDridi&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BahaEddinDridi&layout=compact&theme=radical)
 
 ---
 

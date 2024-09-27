@@ -20,6 +20,9 @@ jobs:
       with:
         node-version: '20'  # Use Node.js 20
 
+    - name: Create output directory
+      run: mkdir -p dist
+
     - name: Generate snake.svg
       uses: Platane/snk@v3.0.0
       with:

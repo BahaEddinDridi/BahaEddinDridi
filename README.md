@@ -57,9 +57,12 @@ I'm a passionate **Web Development Engineer** with a knack for crafting full-sta
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Contributions
 
-![Baha's GitHub stats](https://github-readme-stats.vercel.app/api?username=BahaEddinDridi&show_icons=true&theme=radical)
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github-readme-stats.vercel.app/api?username=BahaEddinDridi&show_icons=true&theme=radical" alt="Baha's GitHub stats" style="width: 48%;"/>
+    <img src="https://github.com/BahaEddinDridi/BahaEddinDridi/blob/main/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" style="width: 48%;"/>
+</div>
 
 ---
 
@@ -69,21 +72,15 @@ I'm a passionate **Web Development Engineer** with a knack for crafting full-sta
 
 ---
 
-## 👀 Profile Views
+## 👀 Profile & Visitor Count
 
-![Profile Views](https://komarev.com/ghpvc/?username=BahaEddinDridi)
+<div style="display: flex; align-items: center; justify-content: space-between;">
 
----
+  ![Profile Views](https://komarev.com/ghpvc/?username=BahaEddinDridi)
+  
+  ![Visitor Count](https://count.getloli.com/get/@BahaEddinDridi?theme=rule34)
 
-## 👀 Visitors Count
-
-![Visitor Count](https://count.getloli.com/get/@BahaEddinDridi?theme=rule34)
-
----
-
-## 🚀 GitHub Contribution Snake
-
-![GitHub Contribution Snake](https://github.com/BahaEddinDridi/BahaEddinDridi/blob/output/github-contribution-grid-snake.svg)
+</div>
 
 ---
 

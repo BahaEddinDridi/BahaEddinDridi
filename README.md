@@ -1,37 +1,53 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile!
-
----
-
-## About Me
-
-"I'm a passionate Web Development Engineer with a knack for crafting full-stack applications using the MERN stack. Whether it’s building sleek user interfaces or architecting powerful backends, I’m always up for a new coding challenge!"
+**Welcome to my GitHub profile!**  
+I'm a passionate **Web Development Engineer** with a knack for crafting full-stack applications using the **MERN stack**. Whether it’s building sleek user interfaces or architecting powerful backends, I’m always up for a new coding challenge! 🚀
 
 ---
 
 ## 🛠️ Skills
 
-### **Programming Languages**:
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow) ![Java](https://img.shields.io/badge/Java-8-orange) ![C](https://img.shields.io/badge/C-Programming-blue) ![C#](https://img.shields.io/badge/C%23-Framework-purple) ![Python](https://img.shields.io/badge/Python-3.8-green)
+### **Programming Languages**  
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript) 
+![Java](https://img.shields.io/badge/Java-8-orange?style=for-the-badge&logo=java) 
+![C](https://img.shields.io/badge/C-Programming-blue?style=for-the-badge&logo=c) 
+![C#](https://img.shields.io/badge/C%23-Framework-purple?style=for-the-badge&logo=c-sharp) 
+![Python](https://img.shields.io/badge/Python-3.8-green?style=for-the-badge&logo=python)
 
-### **Libraries & Frameworks**:
-![React](https://img.shields.io/badge/React-Hooks-blue) ![Angular](https://img.shields.io/badge/Angular-9.0-red) ![Spring](https://img.shields.io/badge/Spring-Boot-green) ![Node.js](https://img.shields.io/badge/Node.js-JS-orange) ![Express](https://img.shields.io/badge/Express-Node_Framework-lightgrey) ![.NET](https://img.shields.io/badge/.Net_Framework-C%23-purple)
+### **Libraries & Frameworks**  
+![React](https://img.shields.io/badge/React-Hooks-blue?style=for-the-badge&logo=react) 
+![Angular](https://img.shields.io/badge/Angular-9.0-red?style=for-the-badge&logo=angular) 
+![Spring Boot](https://img.shields.io/badge/Spring-Boot-green?style=for-the-badge&logo=springboot) 
+![Node.js](https://img.shields.io/badge/Node.js-JS-orange?style=for-the-badge&logo=node.js) 
+![Express](https://img.shields.io/badge/Express-Node_Framework-lightgrey?style=for-the-badge&logo=express) 
+![.NET](https://img.shields.io/badge/.Net_Framework-C%23-purple?style=for-the-badge&logo=dot-net)
 
-### **Databases**:
-![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-green) ![MySQL](https://img.shields.io/badge/MySQL-RDBMS-blue)
+### **Databases**  
+![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-green?style=for-the-badge&logo=mongodb) 
+![MySQL](https://img.shields.io/badge/MySQL-RDBMS-blue?style=for-the-badge&logo=mysql)
 
-### **DevOps & Microservices**:
-![Docker](https://img.shields.io/badge/Docker-20.10-blue) ![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-orange) ![Vagrant](https://img.shields.io/badge/Vagrant-VM_Automation-blue) ![Sonar](https://img.shields.io/badge/Sonar-Quality-gold) ![Nexus](https://img.shields.io/badge/Nexus-Repository_Management-yellowgreen) ![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-red) ![Grafana](https://img.shields.io/badge/Grafana-Dashboard-orange)
+### **DevOps & Microservices**  
+![Docker](https://img.shields.io/badge/Docker-20.10-blue?style=for-the-badge&logo=docker) 
+![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-orange?style=for-the-badge&logo=jenkins) 
+![Vagrant](https://img.shields.io/badge/Vagrant-VM_Automation-blue?style=for-the-badge&logo=vagrant) 
+![Sonar](https://img.shields.io/badge/Sonar-Quality-gold?style=for-the-badge&logo=sonarqube) 
+![Nexus](https://img.shields.io/badge/Nexus-Repository_Management-yellowgreen?style=for-the-badge&logo=sonatype-nexus) 
+![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-red?style=for-the-badge&logo=prometheus) 
+![Grafana](https://img.shields.io/badge/Grafana-Dashboard-orange?style=for-the-badge&logo=grafana)
 
-### **Development Tools**:
-![Git](https://img.shields.io/badge/Git-Fully_Version_Control-green) ![GitHub](https://img.shields.io/badge/GitHub-Hosting-blue) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-JetBrains-black) ![VS Code](https://img.shields.io/badge/VS%20Code-Microsoft-blue)
+### **Development Tools**  
+![Git](https://img.shields.io/badge/Git-Fully_Version_Control-green?style=for-the-badge&logo=git) 
+![GitHub](https://img.shields.io/badge/GitHub-Hosting-blue?style=for-the-badge&logo=github) 
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-JetBrains-black?style=for-the-badge&logo=intellijidea) 
+![VS Code](https://img.shields.io/badge/VS%20Code-Microsoft-blue?style=for-the-badge&logo=visual-studio-code)
 
-### **Project Management Tools**:
-![Jira](https://img.shields.io/badge/Jira-Atlassian-blue) ![Trello](https://img.shields.io/badge/Trello-Project_Management-lightblue)
+### **Project Management Tools**  
+![Jira](https://img.shields.io/badge/Jira-Atlassian-blue?style=for-the-badge&logo=jira) 
+![Trello](https://img.shields.io/badge/Trello-Project_Management-lightblue?style=for-the-badge&logo=trello)
 
-### **Creative Tools**:
-![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-Image_Editing-blue) ![Figma](https://img.shields.io/badge/Figma-Design-orange)
+### **Creative Tools**  
+![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-Image_Editing-blue?style=for-the-badge&logo=adobe-photoshop) 
+![Figma](https://img.shields.io/badge/Figma-Design-orange?style=for-the-badge&logo=figma)
 
 ---
 
@@ -57,14 +73,15 @@ Welcome to my GitHub profile!
 
 ![Visitor Count](https://count.getloli.com/get/@BahaEddinDridi?theme=rule34)
 
+---
 
-![Isometric GitHub Activity Graph](https://github.com/BahaEddinDridi/BahaEddinDridi/blob/output/github-contribution-grid-snake.svg)
-
+## 🚀 GitHub Contribution Snake
 
 ![GitHub Contribution Snake](https://github.com/BahaEddinDridi/BahaEddinDridi/blob/output/github-contribution-grid-snake.svg)
 
+---
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/BahaEddinDridi)
+## ✨ Typing Animation
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF5733&lines=Web+Dev+Engineer+%F0%9F%92%BB;MERN+Stack+Enthusiast+%F0%9F%8E%AF;Always+Learning+New+Things+%F0%9F%A4%93)
 
@@ -72,7 +89,7 @@ Welcome to my GitHub profile!
 
 ## ✨ Let's Connect
 
-Feel free to connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Baha%20Dridi-blue)](https://www.linkedin.com/in/baha-eddine-dridi-88b039203).
+Feel free to connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Baha%20Dridi-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/baha-eddine-dridi-88b039203).
 
 ---
 

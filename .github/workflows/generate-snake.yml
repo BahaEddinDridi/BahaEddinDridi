@@ -9,16 +9,19 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v3  # Ensures latest node version
+    - name: Checkout code
+      uses: actions/checkout@v3
+
     - name: Setup Node.js
       uses: actions/setup-node@v3
       with:
-        node-version: '16'  # Use Node.js 16 or higher
+        node-version: '20'  # Use Node.js 20
 
     - name: Generate snake.svg
       uses: Platane/snk@v3.0.0
       with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
+        github_user_name: 'BahaEddinDridi'  # Your GitHub username
+        github_token: ${{ secrets.GITHUB_TOKEN }}  # Ensure you have the right permissions
         output: dist/snake.svg
 
     - name: Push generated snake.svg to main branch

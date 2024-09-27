@@ -28,6 +28,8 @@ jobs:
       with:
         github_user_name: 'BahaEddinDridi'  # Your GitHub username
         outputs: 'dist/snake.svg'  # Specify the output path for the SVG
+      env:
+        GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}  # Use the secret for authentication
 
     - name: Push generated snake.svg to main branch
       run: |

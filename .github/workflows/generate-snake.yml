@@ -12,29 +12,29 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v3
+      - name: Checkout code
+        uses: actions/checkout@v3
 
-    - name: Setup Node.js
-      uses: actions/setup-node@v3
-      with:
-        node-version: '20'  # Use Node.js 20
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'  # Use Node.js 20
 
-    - name: Create output directory
-      run: mkdir -p dist
+      - name: Create output directory
+        run: mkdir -p dist
 
-    - name: Generate snake.svg
-      uses: Platane/snk@v3.0.0
-      with:
-        github_user_name: 'BahaEddinDridi'  # Your GitHub username
-        outputs: 'dist/snake.svg'  # Specify the output path for the SVG
-      env:
-        GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}  # Use the secret for authentication
+      - name: Generate snake.svg
+        uses: Platane/snk@v3.0.0
+        with:
+          github_user_name: 'BahaEddinDridi'  # Your GitHub username
+          outputs: 'dist/snake.svg'  # Specify the output path for the SVG
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}  # Use the secret for authentication
 
-    - name: Push generated snake.svg to main branch
-      run: |
-        git config --global user.name 'github-actions[bot]'
-        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-        git add dist/snake.svg
-        git commit -m "Generated snake.svg" || echo "No changes to commit"
-        git push origin main
+      - name: Push generated snake.svg to main branch
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add dist/snake.svg
+          git diff --cached --quiet || git commit -m "Generated snake.svg"
+          git push origin main
